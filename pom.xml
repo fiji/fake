@@ -24,7 +24,7 @@
 			<version>${beanshell.version}</version>
 		</dependency>
 		<dependency>
-			<groupId>${minimaven.groupId}</groupId>
+			<groupId>org.scijava</groupId>
 			<artifactId>minimaven</artifactId>
 			<version>${minimaven.version}</version>
 		</dependency>
